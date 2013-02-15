@@ -8,6 +8,11 @@ Code Examplses
 
 https://github.com/yangboz/as3SteeringBehavior/tree/master/src/com/lookbackon/AI/steeringBehavior/tests
 
+Dependency:
+=====================
+
+as3Logger, https://github.com/yangboz/as3Logger
+
 References
 ===================
 
