@@ -17,4 +17,4 @@ http://www.red3d.com/cwr/steer/
 
 * Maven repository
 
-http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3ANN/
+http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3SteeringBehavior/
