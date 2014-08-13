@@ -18,3 +18,11 @@ http://www.red3d.com/cwr/steer/
 * Maven repository
 
 http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3SteeringBehavior/
+
+* Objective-C version
+
+https://github.com/yangboz/ObjCSteeringBehavior
+
+* Swift version
+
+https://github.com/yangboz/SwiftSteeringBehavior
